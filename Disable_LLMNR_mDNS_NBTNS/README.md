@@ -2,7 +2,7 @@
 
 ## Disable_LLMNR_mDNS_NBTNS.htm
 
-This files describes the properties and the policy settings for the specified Group Policy Object (GPO).
+This file describes the properties and the policy settings for the specified Group Policy Object (GPO).
 
 If you want to manually create the GPO you can use this file 
 
