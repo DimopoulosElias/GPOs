@@ -8,7 +8,7 @@ If you want to manually create the GPO you can use this file
 
 ## Disable_LLMNR_mDNS_NBTNS.ps1
 
-This run this powershell and it will create the GPO. 
+Run this powershell and it will create the GPO for you. 
 
 In order to use the GPO, you habe to manually link it:
 
