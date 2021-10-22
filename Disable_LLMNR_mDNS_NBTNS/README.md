@@ -8,9 +8,9 @@ If you want to manually create the GPO you can use this file
 
 ## Disable_LLMNR_mDNS_NBTNS.ps1
 
-Run this powershell and it will create the GPO for you. 
+Run this PS Script in an AD Powershell, with a user who can ceate a GPO (e.g Domain Admin), and it will create the GPO for you. 
 
-In order to use the GPO, you habe to manually link it:
+In order to use the GPO, you have to manually link it:
 
 To link the GPO to the domain container in Active Directory
 
