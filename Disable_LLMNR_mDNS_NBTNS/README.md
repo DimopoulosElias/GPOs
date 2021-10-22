@@ -1,5 +1,9 @@
 # Disable_LLMNR_mDNS_NBTNS Policy
 
+Video which presents how to do it on your own:
+
+https://www.youtube.com/watch?v=bNXClAJHKPE
+
 ## Disable_LLMNR_mDNS_NBTNS.htm
 
 This file describes the properties and the policy settings for the specified Group Policy Object (GPO).
