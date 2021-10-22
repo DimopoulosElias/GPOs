@@ -4,8 +4,6 @@ Video which presents how to do it on your own:
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/bNXClAJHKPE/0.jpg)](http://www.youtube.com/watch?v=bNXClAJHKPE "Disable LLMNR mDNS NBT-NS")
 
-https://www.youtube.com/watch?v=bNXClAJHKPE
-
 ## Disable_LLMNR_mDNS_NBTNS.htm
 
 This file describes the properties and the policy settings for the specified Group Policy Object (GPO).
